@@ -1,0 +1,9 @@
+The sum of the first 3
+numbers in infile.dat
+is : 6000
+The sum of the first 3
+numbers in infile.dat
+is : 6000
+The sum of the first 3
+numbers in infile.dat
+is : 6000

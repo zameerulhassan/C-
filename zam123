@@ -1,0 +1,18 @@
+Here is the output
+
+Alphabetic characters: 			106
+Numeric characters: 			0
+Control characters: 			30
+Upper case characters: 			1
+Lower case characters: 			105
+Punctuation characters: 		2
+Total number of characters in the file:	138
+
+Alphabetic characters Percntage: 			76.8%
+Numeric characters Percntage: 				0.00%
+Control characters Percntage: 				21.7%
+Upper case characters Percntage: 			0.725%
+Lower case characters Percntage: 			76.1%
+Punctuation characters Percntage: 			1.45%
+Total number of characters in the file Percntage:	100.%
+

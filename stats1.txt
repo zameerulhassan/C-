@@ -1,0 +1,16 @@
+******************
+Here is the output
+******************
+
+
+Description:          			Occurance	Percentage%
+
+Alphabetic characters: 			14		42.4%
+Numeric characters: 			5		15.2%
+Control characters: 			12		36.4%
+Upper case characters: 			2		6.06%
+Lower case characters: 			12		36.4%
+Punctuation characters: 		2		6.06%
+
+Total number of characters in the file:	33		100.%
+

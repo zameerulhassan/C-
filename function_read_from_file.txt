@@ -1,0 +1,23 @@
+void readFile( )
+{
+ifstream file;
+file.open ("program.txt");
+string word;
+char x ;
+word.clear();
+
+while ( ! file.eof() )
+{
+x = file.get();
+
+while ( x != ' ' )
+{
+word = word + x;
+x = file.get();
+}
+
+cout<< word <<endl;
+word.clear();
+
+}
+}
